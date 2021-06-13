@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/>
 </a>
   
-## About Me
+## 🇨🇮 About Me
 
 - Who I am [My GitHub CV] (https://github.com/MattDawson2020/CV)
 - I used to be a photographer at a PropTech startup
@@ -62,7 +62,7 @@
 
 <br/>
 
-### Technical Knowledge
+### ⚙︎ Technical Knowledge
 
 I have built projects with a variety of languages and technologies. Additionally, I have practiced with and applied a multitude of programming concepts to my projects.
 
