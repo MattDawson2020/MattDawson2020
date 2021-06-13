@@ -1,29 +1,24 @@
-## Hey there, I'm Jason! 😎
+ ## My Profiles
+ <a href="https://uk.linkedin.com/in/matt-dawson-2877ba129">
+  <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+   
+<a href="https://github.com/MattDawson2020">
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/MattDawson2020?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+</a>
+<a href="https://www.codewars.com/users/MattDawson">
+  
 
- <a href="https://www.linkedin.com/in/jason-rowsell">
-    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-     <a href="#">
-    <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="#">
-    <img alt="devto" title="My Dev Page" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-   <a href="https://github.com/jasonrowsell">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jasonrowsell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-     <a href="https://www.codewars.com/users/jasonrowsell">
-    <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+## About Me
 
-## 👨‍💻 I'm a Junior Software Engineer
-
+- ⚡ I used to be a photographer at a PropTech startup
 - 🌱 I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
-- 🚀 I'm working on: [Discord Bot](https://github.com/jasonrowsell/discord-bot)
-- 🎯 I’m collaborating on: [Fridge Savant](https://github.com/jasonrowsell/fridge-savant-client)
-- 🥅 2021 Goals: Launch a social media platform
-- ⚡ Fun facts: I'm a former GB athlete and fashion designer
+- 🎯 I most recently finished: [AceBook](https://github.com/MattDawson2020/acebook-Derailed)
+- 🚀 I'm currently working on: [Fridge Savant (React front end)](https://github.com/jasonrowsell/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server)
 
-### 🎶 Spotify Playing
 
-<img src="https://jasonrowsell-now-playing.vercel.app/api/spotify" alt="Jason's Spotify Now Playing" width="400" />
 
-## 🚀 My Top Projects
+## 🌱 Project Highlights
 
 <p align="left">
   <a href="https://github.com/jasonrowsell/instagram-challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=instagram-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="instagram-challenge"></a>
@@ -127,17 +122,9 @@ I have built projects with a variety of languages and technologies. Additionally
   </tbody>
 </table>
 
-## 🔥 Streak Stats
-
-<p align="center">
-    <img title="My streak stats" alt="jasonrowsell's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonrowsell&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  <p align="center"></p>
-</p>
-
 ### 📈 GitHub Stats
 
 <p align="center">
-    <img alt="jasonrowsell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jasonrowsell&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <img alt="jasonrowsell's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrowsell&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
@@ -157,4 +144,4 @@ I have built projects with a variety of languages and technologies. Additionally
 </details>
 
 
-<img alt="jasonrowsell's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jasonrowsell&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="Matt Dawsons's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MattDawson2020&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
