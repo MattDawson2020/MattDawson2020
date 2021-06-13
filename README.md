@@ -19,11 +19,11 @@
 - I most recently finished: [AceBook](https://github.com/MattDawson2020/acebook-Derailed)
 - I'm currently working on: [Fridge Savant (React front end)](https://github.com/jasonrowsell/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server)
 
-## My Next Goal? 🎯 
+## 🎯  My Next Goal?
 - My next goal is to learn Python in order to explore AI and intelligence in algorithmic problem solving
 - I intend to work with Maker's colleagues on new projects to explore capabilities/ new technologies
 
-## What Inspired me? ⚡ 
+##  ⚡ What Inspired me?
 - Palantir
 - Tesla
 - Twilio
