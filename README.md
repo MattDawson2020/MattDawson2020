@@ -131,12 +131,4 @@ I have built projects with a variety of languages and technologies. Additionally
   <img alt="Matt Dawson's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattDawson2020&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
-<br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-</details>
-
-
-<img alt="Matt Dawsons's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MattDawson2020&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
