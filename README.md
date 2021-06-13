@@ -13,7 +13,7 @@
   
 ## About Me
 
--Who I aam [My GitHub CV] (https://github.com/MattDawson2020/CV)
+-Who I am [My GitHub CV] (https://github.com/MattDawson2020/CV)
 - ⚡ I used to be a photographer at a PropTech startup
 - 🌱 I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
 - 🎯 I most recently finished: [AceBook](https://github.com/MattDawson2020/acebook-Derailed)
