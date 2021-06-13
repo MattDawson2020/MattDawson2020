@@ -13,11 +13,11 @@
   
 ## About Me
 
--Who I am [My GitHub CV] (https://github.com/MattDawson2020/CV)
-- ⚡ I used to be a photographer at a PropTech startup
-- 🌱 I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
-- 🎯 I most recently finished: [AceBook](https://github.com/MattDawson2020/acebook-Derailed)
-- 🚀 I'm currently working on: [Fridge Savant (React front end)](https://github.com/jasonrowsell/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server)
+- Who I am [My GitHub CV] (https://github.com/MattDawson2020/CV)
+- I used to be a photographer at a PropTech startup
+- I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
+- I most recently finished: [AceBook](https://github.com/MattDawson2020/acebook-Derailed)
+- I'm currently working on: [Fridge Savant (React front end)](https://github.com/jasonrowsell/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server)
 
 ## My Next Goal? 🎯 
 - My next goal is to learn Python in order to explore AI and intelligence in algorithmic problem solving
