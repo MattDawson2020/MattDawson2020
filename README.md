@@ -22,6 +22,8 @@
 ## 🎯  My Next Goal?
 - My next goal is to learn Python in order to explore AI and intelligence in algorithmic problem solving
 - I intend to work with Maker's colleagues on new projects to explore capabilities/ new technologies
+- To rewrite some of my top projects in new technology stacks or to superior quality/ features 
+
 
 ##  ⚡ What Inspired me?
 - Palantir
