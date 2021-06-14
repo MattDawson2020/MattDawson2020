@@ -64,7 +64,11 @@
 
 ### ⚙︎ Technical Knowledge
 
-I have built projects with a variety of languages and technologies. Additionally, I have practiced with and applied a multitude of programming concepts to my projects.
+<p align="center">
+  <img alt="Matt Dawson's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattDawson2020&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+<br />
 
 <table>
   <thead>
@@ -126,14 +130,6 @@ I have built projects with a variety of languages and technologies. Additionally
     </tr>
   </tbody>
 </table>
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img alt="Matt Dawson's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattDawson2020&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-
-<br />
 
 
 <!--START_SECTION:activity-->
