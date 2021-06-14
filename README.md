@@ -139,11 +139,11 @@ I have built projects with a variety of languages and technologies. Additionally
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jasonrowsell/instagram-challenge/pull/1) in [jasonrowsell/instagram-challenge](https://github.com/jasonrowsell/instagram-challenge)
-2. 💪 Opened PR [#1](https://github.com/jasonrowsell/instagram-challenge/pull/1) in [jasonrowsell/instagram-challenge](https://github.com/jasonrowsell/instagram-challenge)
-3. 💪 Opened PR [#861](https://github.com/makersacademy/instagram-challenge/pull/861) in [makersacademy/instagram-challenge](https://github.com/makersacademy/instagram-challenge)
-4. 🎉 Merged PR [#46](https://github.com/ahmad047/acebook-team-smiley-face/pull/46) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
-5. 🎉 Merged PR [#45](https://github.com/ahmad047/acebook-team-smiley-face/pull/45) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+1. 🎉 Merged PR [#8](https://github.com/jasonrowsell/fridge-savant-client/pull/8) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+2. 🎉 Merged PR [#6](https://github.com/jasonrowsell/fridge-savant-client/pull/6) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+3. 💪 Opened PR [#8](https://github.com/jasonrowsell/fridge-savant-client/pull/8) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+4. 🎉 Merged PR [#5](https://github.com/jasonrowsell/fridge-savant-client/pull/5) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+5. 🎉 Merged PR [#4](https://github.com/jasonrowsell/fridge-savant-client/pull/4) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
 <!--END_SECTION:activity-->
 
 </details>
