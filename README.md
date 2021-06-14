@@ -135,17 +135,11 @@ I have built projects with a variety of languages and technologies. Additionally
 
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/jasonrowsell/fridge-savant-client/pull/8) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-2. 🎉 Merged PR [#6](https://github.com/jasonrowsell/fridge-savant-client/pull/6) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-3. 💪 Opened PR [#8](https://github.com/jasonrowsell/fridge-savant-client/pull/8) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-4. 🎉 Merged PR [#5](https://github.com/jasonrowsell/fridge-savant-client/pull/5) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-5. 🎉 Merged PR [#4](https://github.com/jasonrowsell/fridge-savant-client/pull/4) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+
 <!--END_SECTION:activity-->
 
-</details>
+
 
 
