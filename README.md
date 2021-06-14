@@ -133,4 +133,19 @@ I have built projects with a variety of languages and technologies. Additionally
   <img alt="Matt Dawson's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattDawson2020&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
+<br />
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/jasonrowsell/instagram-challenge/pull/1) in [jasonrowsell/instagram-challenge](https://github.com/jasonrowsell/instagram-challenge)
+2. 💪 Opened PR [#1](https://github.com/jasonrowsell/instagram-challenge/pull/1) in [jasonrowsell/instagram-challenge](https://github.com/jasonrowsell/instagram-challenge)
+3. 💪 Opened PR [#861](https://github.com/makersacademy/instagram-challenge/pull/861) in [makersacademy/instagram-challenge](https://github.com/makersacademy/instagram-challenge)
+4. 🎉 Merged PR [#46](https://github.com/ahmad047/acebook-team-smiley-face/pull/46) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+5. 🎉 Merged PR [#45](https://github.com/ahmad047/acebook-team-smiley-face/pull/45) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+<!--END_SECTION:activity-->
+
+</details>
+
 
