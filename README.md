@@ -33,6 +33,9 @@
 - Upstart 
 - Square
 
+
+##  📘 My Makers Journey
+
 ## 🌱 Project Highlights
 
 <p align="left">
