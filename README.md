@@ -78,9 +78,7 @@
          </ul>
       </td>
       
-     </tr>
-    </tbody>
-    
+ 
   </table>
   
  </details>
