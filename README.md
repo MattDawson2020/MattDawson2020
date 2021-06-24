@@ -35,6 +35,28 @@
 
 
 ##  📘 My Makers Journey
+<details>
+ <summary>
+  # In March 2021 I enrolled in Maker's Academy coding bootcamp to learn to be a Full Stack developer. 
+  # Below are links to the repos and summaries of what I learned
+ </summary>
+
+
+ <details>
+   <summary> Week 1 </summary>
+
+   * The error handling on bad inputs 
+
+   * A central loader class `app.rb` that saves me all the `irb` set up 
+
+   * Statement class is clean and well implemented 
+
+   * Tests are well written and use doubles very well 
+
+   * The code in general is very high quality 
+ </details>
+ 
+</details>
 
 ## 🌱 Project Highlights
 
