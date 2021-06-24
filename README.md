@@ -53,16 +53,28 @@
     </thead>
     <tbody>
      <tr>
-      <td style="vertical-align: top">
-         <p>
-          This challenge was the first of my Maker's weekly challenges, coded in pairs with a randomised partner each day.
-          The learning objectives for this week were:
-         </p>
+      <td>
+        <p>
+         This challenge was the first of my Maker's weekly challenges, coded in pairs with a randomised partner each day.
+         The learning objectives for this week were:
+        </p>
+        <ul>
+          <li> Test Driven Development (TDD) using RSpec</li>
+          <li> Follow an appropriate debugging process to 'tighten the loop' and 'gain visbility' when faced with bugs</li>
+          <li> Basic class structure and attributes</li>
+         <li>https://github.com/MattDawson2020/boris_bike_challenge</li>
+        </ul>
+      </td>
+      <td>
+       <p>
+        This challenge was the first of my Maker's weekend challenge, intended to be done alone to reinforce the week's learning and concepts. 
+        The necessary skills covered in this challenge were:
+       </p>
          <ul>
-           <li> Test Driven Development (TDD) using RSpec</li>
-           <li> Follow an appropriate debugging process to 'tighten the loop' and 'gain visbility' when faced with bugs</li>
+           <li> TDD and RSpec</li>
+           <li> Knowing when to split a class and how to add functionality</li>
            <li> Basic class structure and attributes</li>
-          <li>https://github.com/MattDawson2020/boris_bike_challenge</li>
+          <li>https://github.com/MattDawson2020/airport_challeng-RB</li>
          </ul>
       </td>
       
