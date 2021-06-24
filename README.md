@@ -55,7 +55,11 @@
      <tr>
       <td style="vertical-align: top">
         <ul>
-          <li>https://github.com/MattDawson2020/boris_bike_challenge</li>
+         <li>https://github.com/MattDawson2020/boris_bike_challenge</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
           <li>https://github.com/MattDawson2020/airport_challeng-RB</li>
         </ul>
       </td>
