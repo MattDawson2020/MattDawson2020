@@ -112,7 +112,7 @@
           <li>Jasmine</li>
           <li>RSpec</li>
           <li>Capybara</li>
-          <li>Checkout [this repo](https://github.com/MattDawson2020/notesApp) for the framework I made myself</li>
+          <li>Checkout https://github.com/MattDawson2020/notesApp for the framework I made myself</li>
         </ul>
       </td>
       <td style="vertical-align: top">
