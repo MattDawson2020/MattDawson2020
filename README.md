@@ -54,9 +54,18 @@
     <tbody>
      <tr>
       <td style="vertical-align: top">
-        <ul>
+         <p>
+          This challenge was the first of my Maker's weekly challenges, coded in pairs with a randomised partner each day.
+          The learning objectives for this week were:
+         </p>
+         <ul>
+           <li> Test Driven Development (TDD) using RSpec</li>
+           <li> Follow an appropriate debugging process to 'tighten the loop' and 'gain visbility' when faced with bugs</li>
+           <li> Basic class structure and attributes</li>
+         </ul>
+       
          <li>https://github.com/MattDawson2020/boris_bike_challenge</li>
-        </ul>
+   
       </td>
       <td style="vertical-align: top">
         <ul>
