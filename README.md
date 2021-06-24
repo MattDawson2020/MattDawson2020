@@ -53,7 +53,7 @@
     </thead>
     <tbody>
      <tr>
-      <td>
+      <td style="vertical-align: top">
         <p>
          This challenge was the first of my Maker's weekly challenges, coded in pairs with a randomised partner each day.
          The learning objectives for this week were:
@@ -65,7 +65,7 @@
          <li>https://github.com/MattDawson2020/boris_bike_challenge</li>
         </ul>
       </td>
-      <td>
+      <td style="vertical-align: top">
        <p>
         This challenge was the first of my Maker's weekend challenge, intended to be done alone to reinforce the week's learning and concepts. 
         The necessary skills covered in this challenge were:
@@ -95,7 +95,7 @@
     </thead>
     <tbody>
      <tr>
-      <td>
+      <td style="vertical-align: top">
         <p>
          This challenge was the second of my Maker's weekly challenges, coded in pairs with a randomised partner each day. 
          The learning objectives for this week were:
@@ -109,7 +109,7 @@
          <li>https://github.com/MattDawson2020/oystercard</li>
         </ul>
       </td>
-      <td>
+      <td style="vertical-align: top">
        <p>
         This challenge was the second of my Maker's weekend challenge, intended to be done alone to reinforce the week's learning and concepts. 
         This was the first time in Maker's I came across actual difficulty and had to go away to strategise. 
