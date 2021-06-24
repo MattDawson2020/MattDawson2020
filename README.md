@@ -42,7 +42,7 @@
 
 
  <details>
-   <summary> Week 1 </summary>
+   <summary> Week 1: Test driving and debugging</summary>
 
    <table>
     <thead>
@@ -75,6 +75,52 @@
            <li> Knowing when to split a class and how to add functionality</li>
            <li> Basic class structure and attributes</li>
           <li>https://github.com/MattDawson2020/airport_challeng-RB</li>
+         </ul>
+      </td>
+      
+ 
+  </table>
+  
+ </details>
+  
+ <details>
+   <summary> Week 2: Object oriented programming </summary>
+
+   <table>
+    <thead>
+     <tr>
+       <th>Weekly Challenge</th>
+       <th>Weekend Challenge</th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td>
+        <p>
+         This challenge was the second of my Maker's weekly challenges, coded in pairs with a randomised partner each day. 
+         The learning objectives for this week were:
+        </p>
+        <ul>
+          <li> Class splitting to adhere to SRP</li>
+          <li> Mocking and decoupling classes in tests</li>
+          <li> Testing behaviour over state</li>
+          <li> OOP and its' benefits</li>
+          <li> Dependency injection</li>
+         <li>https://github.com/MattDawson2020/oystercard</li>
+        </ul>
+      </td>
+      <td>
+       <p>
+        This challenge was the second of my Maker's weekend challenge, intended to be done alone to reinforce the week's learning and concepts. 
+        This was the first time in Maker's I came across actual difficulty and had to go away to strategise. 
+        Upon realising this was essentially a challenge of RSpec doubles and dependency injection I soon figured it out.
+        The necessary skills covered in this challenge were:
+       </p>
+         <ul>
+           <li> Mocking/ doubles in testing </li>
+           <li> Using injected classes to build complexity while maintaining decoupled structure</li>
+           <li> Using external API (Twilio)</li>
+          <li>https://github.com/MattDawson2020/takeaway-challenge-RB</li>
          </ul>
       </td>
       
