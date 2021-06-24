@@ -62,9 +62,8 @@
            <li> Test Driven Development (TDD) using RSpec</li>
            <li> Follow an appropriate debugging process to 'tighten the loop' and 'gain visbility' when faced with bugs</li>
            <li> Basic class structure and attributes</li>
+          <li>https://github.com/MattDawson2020/boris_bike_challenge</li>
          </ul>
-       
-       <a>https://github.com/MattDawson2020/boris_bike_challenge</a>
       </td>
       
       <td style="vertical-align: top">
