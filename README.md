@@ -64,9 +64,9 @@
            <li> Basic class structure and attributes</li>
          </ul>
        
-         <li>https://github.com/MattDawson2020/boris_bike_challenge</li>
-   
+       <a>https://github.com/MattDawson2020/boris_bike_challenge</a>
       </td>
+      
       <td style="vertical-align: top">
         <ul>
           <li>https://github.com/MattDawson2020/airport_challeng-RB</li>
