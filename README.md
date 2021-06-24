@@ -77,56 +77,130 @@
           <li>https://github.com/MattDawson2020/airport_challeng-RB</li>
          </ul>
       </td>
-      
- 
-  </table>
-  
+   </table>
  </details>
   
  <details>
-   <summary> Week 2: Object oriented programming </summary>
-
-   <table>
-    <thead>
-     <tr>
-       <th>Weekly Challenge</th>
-       <th>Weekend Challenge</th>
-     </tr>
-    </thead>
-    <tbody>
-     <tr>
-      <td style="vertical-align: top">
-        <p>
-         This challenge was the second of my Maker's weekly challenges, coded in pairs with a randomised partner each day. 
-         The learning objectives for this week were:
-        </p>
-        <ul>
-          <li> Class splitting to adhere to SRP</li>
-          <li> Mocking and decoupling classes in tests</li>
-          <li> Testing behaviour over state</li>
-          <li> OOP and its' benefits</li>
-          <li> Dependency injection</li>
-         <li>https://github.com/MattDawson2020/oystercard</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
+  <summary> Week 2: Object oriented programming </summary>
+  <table>
+   <thead>
+    <tr>
+      <th>Weekly Challenge</th>
+      <th>Weekend Challenge</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td style="vertical-align: top">
        <p>
-        This challenge was the second of my Maker's weekend challenge, intended to be done alone to reinforce the week's learning and concepts. 
-        This was the first time in Maker's I came across actual difficulty and had to go away to strategise. 
-        Upon realising this was essentially a challenge of RSpec doubles and dependency injection I soon figured it out.
-        The necessary skills covered in this challenge were:
+        This challenge was the second of my Maker's weekly challenges, coded in pairs with a randomised partner each day. 
+        The learning objectives for this week were:
        </p>
-         <ul>
-           <li> Mocking/ doubles in testing </li>
-           <li> Using injected classes to build complexity while maintaining decoupled structure</li>
-           <li> Using external API (Twilio)</li>
-          <li>https://github.com/MattDawson2020/takeaway-challenge-RB</li>
-         </ul>
-      </td>
-      
- 
+       <ul>
+         <li> Class splitting to adhere to SRP</li>
+         <li> Mocking and decoupling classes in tests</li>
+         <li> Testing behaviour over state</li>
+         <li> OOP and its' benefits</li>
+         <li> Dependency injection</li>
+        <li>https://github.com/MattDawson2020/oystercard</li>
+       </ul>
+     </td>
+     <td style="vertical-align: top">
+      <p>
+       This challenge was the second of my Maker's weekend challenge, intended to be done alone to reinforce the week's learning and concepts. 
+       This was the first time in Maker's I came across actual difficulty and had to go away to strategise. 
+       Upon realising this was essentially a challenge of RSpec doubles and dependency injection I soon figured it out.
+       The necessary skills covered in this challenge were:
+      </p>
+       <ul>
+         <li> Mocking/ doubles in testing </li>
+         <li> Using injected classes to build complexity while maintaining decoupled structure</li>
+         <li> Using external API (Twilio)</li>
+        <li>https://github.com/MattDawson2020/takeaway-challenge-RB</li>
+       </ul>
+     </td>
   </table>
+ </details>
+ 
+ <details>
+ <summary> Week 3: Web applications </summary>
+ <table>
+  <thead>
+   <tr>
+     <th>Weekly Challenge</th>
+     <th>Weekend Challenge</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+      <p>
+       This challenge was the third of my Maker's weekly challenges, coded in pairs with a randomised partner each day.
+       The learning objectives for this week were:
+      </p>
+      <ul>
+        <li> Building a simple web app</li>
+        <li> Understand the basics of HTTP requests/ response</li>
+        <li> Basics of HTML, CSS</li>
+        <li> Explain the MVC pattern</li>
+        <li> How do servers and clients interact to create an application</li>
+       <li>https://github.com/MattDawson2020/intro_to_web</li>
+       <li>https://github.com/MattDawson2020/Battle</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      This challenge was the third of my Maker's weekend challenge, intended to be done alone to reinforce the week's learning and concepts.
+      The necessary skills covered in this challenge were:
+     </p>
+      <ul>
+        <li> How to render a backend program so it is no longer REPL only </li>
+        <li> How to use MVC to update application as you run through its' functions</li>
+        <li> Move on from purely back-end focussed code</li>
+       <li>https://github.com/MattDawson2020/rps-challenge</li>
+      </ul>
+    </td>
+  </table>
+ </details>
   
+ <details>
+ <summary> Week 4: Databases </summary>
+ <table>
+  <thead>
+   <tr>
+     <th>Weekly Challenge</th>
+     <th>Weekend Challenge</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+      <p>
+       This challenge was the fourth of my Maker's weekly challenges, coded in pairs with a randomised partner each day. 
+       This week is where I would say the difficulty noticeably stepped up, with database interactions being more complex than previous weeks. 
+       The learning objectives for this week were:
+      </p>
+      <ul>
+        <li> Built a simple web app with a database attached to allow permanence</li>
+        <li> Explain the basics of how databases work and how to use SQL to interact with them</li>
+        <li> Object Relational Mapping (ORM) and manually writing a SQL interface with ruby</li>
+        <li> RESTful routes</li>
+       <li>https://github.com/MattDawson2020/bookmark-manager</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      This challenge was the fourth of my Maker's weekly challenges, coded in pairs with a randomised partner each day.
+      The learning objectives for this week were:
+     </p>
+      <ul>
+        <li> Built a web app with data permanence, allowing rendered data to persist between page refreshes</li>
+        <li> Allow a user to input new data in order to change what is rendered, and have these changes persist</li>
+       <li> Using a Ruby based ORM to interface with SQL based database</li>
+       <li>https://github.com/MattDawson2020/chitter-challenge</li>
+      </ul>
+    </td>
+  </table>
  </details>
  
 </details>
