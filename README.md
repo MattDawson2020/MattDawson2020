@@ -67,10 +67,18 @@
       </td>
       
       <td style="vertical-align: top">
-        <ul>
+       <p>
+          This challenge was the first of my Maker's weekend challenge, intended to be done alone to reinforce the week's learning and concepts. 
+          The necessary skills covered in this challenge were:
+         </p>
+         <ul>
+           <li> TDD and RSpec</li>
+           <li> Knowing when to split a class and how to add functionality</li>
+           <li> Basic class structure and attributes</li>
           <li>https://github.com/MattDawson2020/airport_challeng-RB</li>
-        </ul>
+         </ul>
       </td>
+      
      </tr>
     </tbody>
     
