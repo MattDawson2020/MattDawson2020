@@ -13,7 +13,7 @@
   
 ## 🇨🇮 About Me
 
-- Who I am [My GitHub CV] (https://github.com/MattDawson2020/CV)
+- Who I am [My GitHub CV](https://github.com/MattDawson2020/CV)
 - I used to be a photographer at a PropTech startup
 - I’m recently completed the Full Stack Software Engineer course at [Makers Academy](https://makers.tech/about-us/)
 - I most recently finished: [Fridge Savant (React front end)](https://github.com/jasonrowsell/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server)
@@ -26,18 +26,22 @@
 
 
 ##  ⚡ What Inspired me?
----------
 **These are the companies that inspired me to become a developer, each found while looking for investment opportunities** <br>
 **I am a shareholder of each of these companies and believe they are the future FAANG company equivalents**
+<br>
 
 <details>
  <summary>
   ◉ Palantir
  </summary>
+ <br>
+ <p>
+  <a href="https://www.palantir.com/">Palantir</a> is a one of a kind, bleeding edge data anlytics provider <br>
+  Initially specialising in clandestine and security solutions for government buyers, they are now broadening into commercial offerings
+ </p> <br>
  <table>
   <thead>
    <tr>
-    <th>Who they are</th>
     <th>What problems are they solving</th>
     <th>Why they will change the world</th>
    </tr>
@@ -45,21 +49,19 @@
   <tbody>
    <tr>
     <td style="vertical-align: top">
-        they are a (link)
-    </td>
-    <td style="vertical-align: top">
-        they do 
       <ul>
-       <li>x</li>
-       <li>y</li>
-       <li>z</li>
+       <li>Integrating data, decisions and operations into one platform</li>
+       <li>Outputs enormous volumes of data and analytics as simple english</li>
+       <li>Allows human operators to channel and control their data as never before</li>
      </ul>
     </td>
     <td style="vertical-align: top">
-     <p>
-      they are great.
-      because of these things.
-     </p>
+     <ul>
+       <li>CEO Alex Karp and Chairman Peter Thiel spending 17 years slowly building the core capabilities and they are truly without competitors</li>
+       <li>Analytics allow companies to make informed decisions at a fraction of the cost and time using tailored datasets</li>
+       <li>Palantir specialises in taking siloed, fragmented data, and facilitating improved decision making</li>
+       <li>In a future digital economy, companies NOT using their data solutions will be at a serious competitive disadvantage</li>
+     </ul>
     </td>
    </tr>
   </tbody>
@@ -70,10 +72,13 @@
  <summary>
   ⚡️ Tesla
  </summary>
+ <br>
+ <p>
+  <a href="https://www.tesla.com/en_gb/powerwall">Tesla</a> is leading the world in renewable energy products
+ </p> <br>
  <table>
   <thead>
    <tr>
-    <th>Who they are</th>
     <th>What problems are they solving</th>
     <th>Why they will change the world</th>
    </tr>
@@ -81,21 +86,21 @@
   <tbody>
    <tr>
     <td style="vertical-align: top">
-        they are a (link)
-    </td>
-    <td style="vertical-align: top">
-        they do 
       <ul>
-       <li>x</li>
-       <li>y</li>
-       <li>z</li>
+       <li>Revolutionising the worlds roads with clean, electrically powered cars</li>
+       <li>Tesla charging network, allowing the world to phase out ICE cars</li>
+       <li>World leading self driving car technology, with the aim to push robo-taxis within the decade</li>
+       <li>Tesla power provides solar roof sells to generate renewable energy, and Tesla Powerwalls to sore and manage power</li>
      </ul>
     </td>
     <td style="vertical-align: top">
-     <p>
-      they are great.
-      because of these things.
-     </p>
+     <ul>
+       <li>Elon Musk has said the sole reason for Tesla's work is to bring forward the green energy revolution, and arguably no one has done more</li>
+       <li>Within a generation we will likely see the near complete replacement of polluting and inefficient petrol cars in favour of electric</li>
+       <li>Self driving cars will allow safer, faster and more productive journies to become the norm</li>
+       <li>Tesla solar allows regular people to take the fight against climate change in their own hands</li>
+       <li>Tesla self driving is the only one to not use expensive LIDAR systems, allowing cars to be affordable</li>
+     </ul>
     </td>
    </tr>
   </tbody>
@@ -106,10 +111,14 @@
  <summary>
   💵 Square
  </summary>
+ <br>
+ <p>
+  <a href="https://squareup.com/gb/en">Square</a> is changing the way we think about money <br>
+  Square began life as a simpler way for people to make payments to each other, but now looks to take on the worlds financial system
+ </p> <br>
  <table>
   <thead>
    <tr>
-    <th>Who they are</th>
     <th>What problems are they solving</th>
     <th>Why they will change the world</th>
    </tr>
@@ -117,21 +126,20 @@
   <tbody>
    <tr>
     <td style="vertical-align: top">
-        they are a (link)
-    </td>
-    <td style="vertical-align: top">
-        they do 
       <ul>
-       <li>x</li>
-       <li>y</li>
-       <li>z</li>
+       <li>Allows individuals and businesses to easily accept card payments without expensive point of sale systems</li>
+       <li>Software allows small enterprises to use an Ipad with wifi as a point of sale system</li>
+       <li>Fast and safe personal money transfers</li>
+       <li>Offers business customers the ability to setup online stors integrated with Instagram and Facebook marketplaces</li>
      </ul>
     </td>
     <td style="vertical-align: top">
-     <p>
-      they are great.
-      because of these things.
-     </p>
+     <ul>
+       <li>The world financial system is stale and self destructive, and would sooner prevent innovation than drive it</li>
+       <li>Square puts the power of personal and business finance in the hand of the individuals, driving a new age of individual enterprise</li>
+       <li>Payment and point of sale simplicity means success is now determined on the quality of your product or service, not your level of capital</li>
+       <li>Your money is yours, and why should banks tell you what you can do with it, Square puts the power back in your hands</li>
+     </ul>
     </td>
    </tr>
   </tbody>
@@ -142,10 +150,13 @@
  <summary>
   🏦 Upstart
  </summary>
+ <br>
+ <p>
+  <a href="https://www.upstart.com/">Upstart</a> will change how the world's financial decisions are made  <br>
+ </p> <br>
  <table>
   <thead>
    <tr>
-    <th>Who they are</th>
     <th>What problems are they solving</th>
     <th>Why they will change the world</th>
    </tr>
@@ -153,21 +164,19 @@
   <tbody>
    <tr>
     <td style="vertical-align: top">
-        they are a (link)
-    </td>
-    <td style="vertical-align: top">
-        they do 
       <ul>
-       <li>x</li>
-       <li>y</li>
-       <li>z</li>
+       <li>Loans typically take months to be approved, require substantial documentation, and are often denied for petty reasons</li>
+       <li>Risk and inadequate judgement by banks means millions of missed opportunities per year</li>
+       <li>The decision to approve the capital you need is held by someone who does not have your interests at heart</li>
      </ul>
     </td>
     <td style="vertical-align: top">
-     <p>
-      they are great.
-      because of these things.
-     </p>
+     <ul>
+       <li>Upstart's algorithm uses a complete web of data points, including finances, education and any one of up to 1000 data points</li>
+       <li>Algorithm's accuracy is such that banks can have 75% fewer defaults for the same approval rate, or increase approvals 173% for no extra defaults</li>
+       <li>No longer do individuals have loans rejected by people who seem unable to provide an objective reason why</li>
+       <li>The digital age is too often held back by subjective decision making and human error, Upstart is a perfect example of AI innovation</li>
+     </ul>
     </td>
    </tr>
   </tbody>
@@ -178,10 +187,13 @@
  <summary>
   📱 Twilio
  </summary>
+ <br>
+ <p>
+  <a href="https://www.twilio.com/">Twilio</a> makes communications easy  <br>
+ </p> <br>
  <table>
   <thead>
    <tr>
-    <th>Who they are</th>
     <th>What problems are they solving</th>
     <th>Why they will change the world</th>
    </tr>
@@ -189,21 +201,18 @@
   <tbody>
    <tr>
     <td style="vertical-align: top">
-        they are a (link)
-    </td>
-    <td style="vertical-align: top">
-        they do 
       <ul>
-       <li>x</li>
-       <li>y</li>
-       <li>z</li>
+       <li>Communication infrastructure is often dated and hard to access, despite the modern digital age</li>
+       <li>Businesses often have to use multiple providers and programs in order to facilitate effective communication</li>
+       <li>Integrating communication systems is often needlessly difficult for developers and business alike</li>
      </ul>
     </td>
     <td style="vertical-align: top">
-     <p>
-      they are great.
-      because of these things.
-     </p>
+     <ul>
+       <li>Allows text, video, call and email communication from a single source</li>
+       <li>Small and medium sized businesses no longer need expensive or bulky infrastructure to provide services</li>
+       <li>Developer API and guides are so easy that I myself used the Twilio API to send myself a text with only 3 weeks of Ruby experience</li>
+     </ul>
     </td>
    </tr>
   </tbody>
@@ -214,10 +223,13 @@
  <summary>
   🏠 Zillow
  </summary>
+ <br>
+ <p>
+  <a href="https://www.zillow.com/">Zillow</a> brings buying and selling homes to the digital age <br>
+ </p> <br>
  <table>
   <thead>
    <tr>
-    <th>Who they are</th>
     <th>What problems are they solving</th>
     <th>Why they will change the world</th>
    </tr>
@@ -225,21 +237,18 @@
   <tbody>
    <tr>
     <td style="vertical-align: top">
-        they are a (link)
-    </td>
-    <td style="vertical-align: top">
-        they do 
       <ul>
-       <li>x</li>
-       <li>y</li>
-       <li>z</li>
+       <li>Homeowners have to pay massive feeds and commissions to allow someone else to sell/buy a home for them</li>
+       <li>Property sales/ renting is still overwhelmingly done in an analogue manner despite advancing technology</li>
+       <li>Real Estate industry means that listings are often divided across locations and even RightMove often forces you onto their website</li>
      </ul>
     </td>
     <td style="vertical-align: top">
-     <p>
-      they are great.
-      because of these things.
-     </p>
+     <ul>
+       <li>Users can rent/buy/sell/view propertie all from a single location, even able to request tours through the site</li>
+       <li>Developing business model allows renters to pay rent through Zillow, and for buyers/sells to use Zillow for Escrow</li>
+       <li>Zestimate feature uses AI to calculate approximate value/ rent, and is just a stepping off point for digital innovations</li>
+     </ul>
     </td>
    </tr>
   </tbody>
