@@ -275,7 +275,7 @@
       <p>
        This challenge was the seventh weekly challenge and the second group based project.
        We worked in a three to build a single page application that dynamically refreshes content using JS.
-       *View this repo to see the test framework I made myself (partially by accident) during a lunch break.*
+       In this week, while trying to replicate a test matcher, I also managed to (partially accidentally) create a functioning testing framework.
        The learning objectives for this week were:
       </p>
       <ul>
