@@ -275,7 +275,7 @@
       <p>
        This challenge was the seventh weekly challenge and the second group based project.
        We worked in a three to build a single page application that dynamically refreshes content using JS.
-       **View this repo to see the test framework I made myself (partially by accident) during a lunch break.**
+       *View this repo to see the test framework I made myself (partially by accident) during a lunch break.*
        The learning objectives for this week were:
       </p>
       <ul>
@@ -353,8 +353,8 @@
        The aims of this week were to attempt individual tech tests in order to solve popular engineering problems.
        These were done alone once and submitted to Maker's coaches, who then provided feedback for a refactor. 
        Details of coaches feedback and proposed changes are inside the repos.
-       **As of this moment Ruby bank test is complete, Ruby Gilded Rose requires another refactor based on coaches feedback. 
-       I have a nearly completed JS version of bank test I will soon be submitting, and will do the same for Gilded Rose.**
+       *As of this moment Ruby bank test is complete, Ruby Gilded Rose requires another refactor based on coaches feedback. 
+       I have a nearly completed JS version of bank test I will soon be submitting, and will do the same for Gilded Rose.*
        The learning objectives for this week were:
       </p>
       <ul>
@@ -372,10 +372,12 @@
  <table>
   <thead>
    <tr>
-    In our final project, my team decided to build a simple API based app that could search for recipes from your chosen ingredients. 
-    This was intentionally kept simple to allow us to focus on the main challenge, using the MERN stack with no previous experience in less than two weeks.
-    We were successful in this and using REACT allowed us to create a dynamic and flowing front end with tight UX and styling.
-    Using MONGO, EXPRESS, and NODE for the back end meant our bookmarks were saved in JSON format, the same as the API returns, allowing reuse of components.
+    <th>
+     In our final project, my team decided to build a simple API based app that could search for recipes from your chosen ingredients. 
+     This was intentionally kept simple to allow us to focus on the main challenge, using the MERN stack with no previous experience in less than two weeks.
+     We were successful in this and using REACT allowed us to create a dynamic and flowing front end with tight UX and styling.
+     Using MONGO, EXPRESS, and NODE for the back end meant our bookmarks were saved in JSON format, the same as the API returns, allowing reuse of components.
+    </th>
    </tr>
    <tr>
      <th>Server side</th>
