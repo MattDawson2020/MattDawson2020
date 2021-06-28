@@ -312,8 +312,8 @@
    <tr>
     <td style="vertical-align: top">
       <p>
-       The second Maker's group engineering project, this time we worked in a group of seven to try to recreate Facebook's functionality.
-       This would be done to AGILE methodology, using Ruby on Rails, and Bootstrap.
+       The second Maker's group engineering project, this time we worked in a group of seven to try to recreate Facebook's functionality.<br>
+       This would be done to AGILE methodology, using Ruby on Rails, and Bootstrap.<br>
        The learning objectives for this week were:
       </p>
       <ul>
@@ -350,11 +350,11 @@
    <tr>
     <td style="vertical-align: top">
       <p>
-       The aims of this week were to attempt individual tech tests in order to solve popular engineering problems.
-       These were done alone once and submitted to Maker's coaches, who then provided feedback for a refactor. 
-       Details of coaches feedback and proposed changes are inside the repos.
-       *As of this moment Ruby bank test is complete, Ruby Gilded Rose requires another refactor based on coaches feedback. 
-       I have a nearly completed JS version of bank test I will soon be submitting, and will do the same for Gilded Rose.*
+       The aims of this week were to attempt individual tech tests in order to solve popular engineering problems. <br>
+       These were done alone once and submitted to Maker's coaches, who then provided feedback for a refactor. <br>
+       Details of coaches feedback and proposed changes are inside the repos.<br>
+       *As of this moment Ruby bank test is complete, Ruby Gilded Rose requires another refactor based on coaches feedback. <br>
+       I have a nearly completed JS version of bank test I will soon be submitting, and will do the same for Gilded Rose.*<br>
        The learning objectives for this week were:
       </p>
       <ul>
@@ -370,8 +370,7 @@
  <details>
  <summary> Weeks 11 & 12: Final Project </summary>
  <table>
-  <thead>
-   <tr>
+  <tr>
     <th>
      In our final project, my team decided to build a simple API based app that could search for recipes from your chosen ingredients. 
      This was intentionally kept simple to allow us to focus on the main challenge, using the MERN stack with no previous experience in less than two weeks.
@@ -379,6 +378,7 @@
      Using MONGO, EXPRESS, and NODE for the back end meant our bookmarks were saved in JSON format, the same as the API returns, allowing reuse of components.
     </th>
    </tr>
+  <thead>
    <tr>
      <th>Server side</th>
      <th>Client side</th>
