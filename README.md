@@ -163,7 +163,7 @@
   </table>
  </details>
   
- <details>
+<details>
  <summary> Week 4: Databases </summary>
  <table>
   <thead>
@@ -255,6 +255,158 @@
        <li> Creating dynamic pages that do not rely on a page refresh</li>
        <li>https://github.com/MattDawson2020/Airport-Challenge-JS</li>
        <li>https://github.com/MattDawson2020/Thermostat-JS</li>
+      </ul>
+    </td>
+  </table>
+ </details>
+ 
+<details>
+ <summary> Week 7: Single page applications </summary>
+ <table>
+  <thead>
+   <tr>
+     <th>Weekly Challenge</th>
+     <th>Weekend Challenge</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+      <p>
+       This challenge was the seventh weekly challenge and the second group based project.
+       We worked in a three to build a single page application that dynamically refreshes content using JS.
+       **View this repo to see the test framework I made myself (partially by accident) during a lunch break.**
+       The learning objectives for this week were:
+      </p>
+      <ul>
+       <li> Build a dynamic single page app using only Pure JS</li>
+       <li> Request and use data from an external API</li>
+       <li> Explain that libraries are code that can be written by anyone</li>
+       <li>https://github.com/MattDawson2020/notesApp</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      This challenge was the seventh of my Maker's weekend challenge, intended to be done alone to reinforce the week's learning and concepts. 
+      The necessary skills covered in this challenge were:
+     </p>
+      <ul>
+        <li> Build a dynamic single page app using only Pure JS</li>
+       <li> Request and use data from an external API</li>
+       <li>https://github.com/MattDawson2020/news-summary-challenge</li>
+      </ul>
+    </td>
+  </table>
+ </details>
+ 
+<details>
+ <summary> Weeks 8 & 9: Rails engineering project </summary>
+ <table>
+  <thead>
+   <tr>
+     <th>Weekly Challenge</th>
+     <th>Weekend Challenge</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+      <p>
+       The second Maker's group engineering project, this time we worked in a group of seven to try to recreate Facebook's functionality.
+       This would be done to AGILE methodology, using Ruby on Rails, and Bootstrap.
+       The learning objectives for this week were:
+      </p>
+      <ul>
+       <li> Build a fully functioning web application from specifications</li>
+       <li> Use Rails framework to simplify much of the previous weeks tasks in order to push on to new heights</li>
+       <li> Understand and utilise new concepts such as migrations, validations, associations, embedded Ruby ETC</li>
+       <li>https://github.com/MattDawson2020/acebook-Derailed</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      This challenge was the last of my Maker's weekend challenges, to test whether I could use Rails to create a full stack application. 
+      The necessary skills covered in this challenge were:
+     </p>
+      <ul>
+       <li> Build instagram with all the relevant features</li>
+       <li> Build a full stack application in Rails</li>
+       <li> Follow a TDD approach to a full stack application</li>
+       <li>https://github.com/MattDawson2020/instagram-challenge</li>
+      </ul>
+    </td>
+  </table>
+ </details>
+ 
+<details>
+ <summary> Week 10: Individual tech tests </summary>
+ <table>
+  <thead>
+   <tr>
+     <th>Tech tests</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+      <p>
+       The aims of this week were to attempt individual tech tests in order to solve popular engineering problems.
+       These were done alone once and submitted to Maker's coaches, who then provided feedback for a refactor. 
+       Details of coaches feedback and proposed changes are inside the repos.
+       **As of this moment Ruby bank test is complete, Ruby Gilded Rose requires another refactor based on coaches feedback. 
+       I have a nearly completed JS version of bank test I will soon be submitting, and will do the same for Gilded Rose.**
+       The learning objectives for this week were:
+      </p>
+      <ul>
+       <li> To solve a challenging technical problem by writing well crafted code</li>
+       <li> Have developed a structured process to approaching complex problems, utilising TDD and good OO design skills</li>
+       <li>https://github.com/MattDawson2020/Bank-Tech-Test</li>
+       <li>https://github.com/MattDawson2020/gilded-rose-ruby-tech-test</li>
+      </ul>
+    </td>
+  </table>
+ </details>
+ 
+ <details>
+ <summary> Weeks 11 & 12: Final Project </summary>
+ <table>
+  <thead>
+   <tr>
+    In our final project, my team decided to build a simple API based app that could search for recipes from your chosen ingredients. 
+    This was intentionally kept simple to allow us to focus on the main challenge, using the MERN stack with no previous experience in less than two weeks.
+    We were successful in this and using REACT allowed us to create a dynamic and flowing front end with tight UX and styling.
+    Using MONGO, EXPRESS, and NODE for the back end meant our bookmarks were saved in JSON format, the same as the API returns, allowing reuse of components.
+   </tr>
+   <tr>
+     <th>Server side</th>
+     <th>Client side</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+      <p>
+       The Server side project was built my members of my team, intended to store user & bookmark data as JSON packages.
+       This also allowed us to move on from using sessions to the far more popular JAVASCRIPT WEB TOKENS for authentication.
+       The learning objectives for this week were:
+      </p>
+      <ul>
+       <li> To use high-quality processes to build an extended project in a team</li>
+       <li> Creating a fully functioning back end server in entirely new languages/ frameworks</li>
+       <li>https://github.com/mikejeuga/fridge-savant-server</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      The client REACT application was built by myelf and other members of my team. 
+      I mainly worked on the API data requests and the Meal card components, as well as the advertising preview column.
+      The necessary skills covered in this challenge were:
+     </p>
+      <ul>
+       <li> Building reusable and DRY components</li>
+       <li> Using states, contexts and other REACT functionality to optimise the logic</li>
+       <li> Learn to use an entirely new framework while maintaing best practices</li>
+       <li>https://github.com/jasonrowsell/fridge-savant-client</li>
       </ul>
     </td>
   </table>
