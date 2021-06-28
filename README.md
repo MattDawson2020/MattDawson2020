@@ -369,14 +369,6 @@
  <details>
  <summary> Weeks 11 & 12: Final Project </summary>
  <table>
-  <tr>
-    <th>
-     In our final project, my team decided to build a simple API based app that could search for recipes from your chosen ingredients. 
-     This was intentionally kept simple to allow us to focus on the main challenge, using the MERN stack with no previous experience in less than two weeks.
-     We were successful in this and using REACT allowed us to create a dynamic and flowing front end with tight UX and styling.
-     Using MONGO, EXPRESS, and NODE for the back end meant our bookmarks were saved in JSON format, the same as the API returns, allowing reuse of components.
-    </th>
-   </tr>
   <thead>
    <tr>
      <th>Server side</th>
@@ -410,6 +402,13 @@
        <li>https://github.com/jasonrowsell/fridge-savant-client</li>
       </ul>
     </td>
+   </tr>
+   <tr>
+     In our final project, my team decided to build a simple API based app that could search for recipes from your chosen ingredients. 
+     This was intentionally kept simple to allow us to focus on the main challenge, using the MERN stack with no previous experience in less than two weeks.
+     We were successful in this and using REACT allowed us to create a dynamic and flowing front end with tight UX and styling.
+     Using MONGO, EXPRESS, and NODE for the back end meant our bookmarks were saved in JSON format, the same as the API returns, allowing reuse of components.
+   </tr>
   </table>
  </details>
  
