@@ -697,7 +697,6 @@
         <ul>
          <li>Ruby</li>
           <li>JavaScript</li>
-          <li>Typescript</li>
           <li>HTML5</li>
           <li>CSS3/SASS</li>
         </ul>
