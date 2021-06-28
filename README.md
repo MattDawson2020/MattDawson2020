@@ -353,8 +353,6 @@
        The aims of this week were to attempt individual tech tests in order to solve popular engineering problems. <br>
        These were done alone once and submitted to Maker's coaches, who then provided feedback for a refactor. <br>
        Details of coaches feedback and proposed changes are inside the repos.<br>
-       *As of this moment Ruby bank test is complete, Ruby Gilded Rose requires another refactor based on coaches feedback. <br>
-       I have a nearly completed JS version of bank test I will soon be submitting, and will do the same for Gilded Rose.*<br>
        The learning objectives for this week were:
       </p>
       <ul>
@@ -362,6 +360,7 @@
        <li> Have developed a structured process to approaching complex problems, utilising TDD and good OO design skills</li>
        <li>https://github.com/MattDawson2020/Bank-Tech-Test</li>
        <li>https://github.com/MattDawson2020/gilded-rose-ruby-tech-test</li>
+       <li> JS bank tech test is almost complete and will be posted here soon</li>
       </ul>
     </td>
   </table>
