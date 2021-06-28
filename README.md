@@ -371,12 +371,17 @@
   <table>
    <thead>
     <tr>
-     In our final project, my team decided to build a simple API based app that could search for recipes from your chosen ingredients. 
-     This was intentionally kept simple to allow us to focus on the main challenge, using the MERN stack with no previous experience in less than two weeks.
-     We were successful in this and using REACT allowed us to create a dynamic and flowing front end with tight UX and styling.
-     Using MONGO, EXPRESS, and NODE for the back end meant our bookmarks were saved in JSON format, the same as the API returns, allowing reuse of components.
+     <th> The outline</th>
     </tr>
    </thead>
+   <tbody>
+    <td style="verticl-align: top">
+      In our final project, my team decided to build a simple API based app that could search for recipes from your chosen ingredients. 
+      This was intentionally kept simple to allow us to focus on the main challenge, using the MERN stack with no previous experience in less than two weeks.
+      We were successful in this and using REACT allowed us to create a dynamic and flowing front end with tight UX and styling.
+      Using MONGO, EXPRESS, and NODE for the back end meant our bookmarks were saved in JSON format, the same as the API returns, allowing reuse of components.
+    </td>
+   </tbody>
   </table>
  <table>
   <thead>
