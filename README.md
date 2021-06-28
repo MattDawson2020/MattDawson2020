@@ -26,12 +26,225 @@
 
 
 ##  ⚡ What Inspired me?
-- Palantir
-- Tesla
-- Twilio
-- Zillow
-- Upstart 
-- Square
+---------
+**These are the companies that inspired me to become a developer, each found while looking for investment opportunities** <br>
+**I am a shareholder of each of these companies and believe they are the future FAANG company equivalents**
+
+<details>
+ <summary>
+  ◉ Palantir
+ </summary>
+ <table>
+  <thead>
+   <tr>
+    <th>Who they are</th>
+    <th>What problems are they solving</th>
+    <th>Why they will change the world</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+        they are a (link)
+    </td>
+    <td style="vertical-align: top">
+        they do 
+      <ul>
+       <li>x</li>
+       <li>y</li>
+       <li>z</li>
+     </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      they are great.
+      because of these things.
+     </p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</details>
+
+<details>
+ <summary>
+  ⚡️ Tesla
+ </summary>
+ <table>
+  <thead>
+   <tr>
+    <th>Who they are</th>
+    <th>What problems are they solving</th>
+    <th>Why they will change the world</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+        they are a (link)
+    </td>
+    <td style="vertical-align: top">
+        they do 
+      <ul>
+       <li>x</li>
+       <li>y</li>
+       <li>z</li>
+     </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      they are great.
+      because of these things.
+     </p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</details>
+
+<details>
+ <summary>
+  💵 Square
+ </summary>
+ <table>
+  <thead>
+   <tr>
+    <th>Who they are</th>
+    <th>What problems are they solving</th>
+    <th>Why they will change the world</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+        they are a (link)
+    </td>
+    <td style="vertical-align: top">
+        they do 
+      <ul>
+       <li>x</li>
+       <li>y</li>
+       <li>z</li>
+     </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      they are great.
+      because of these things.
+     </p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</details>
+
+<details>
+ <summary>
+  🏦 Upstart
+ </summary>
+ <table>
+  <thead>
+   <tr>
+    <th>Who they are</th>
+    <th>What problems are they solving</th>
+    <th>Why they will change the world</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+        they are a (link)
+    </td>
+    <td style="vertical-align: top">
+        they do 
+      <ul>
+       <li>x</li>
+       <li>y</li>
+       <li>z</li>
+     </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      they are great.
+      because of these things.
+     </p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</details>
+
+<details>
+ <summary>
+  📱 Twilio
+ </summary>
+ <table>
+  <thead>
+   <tr>
+    <th>Who they are</th>
+    <th>What problems are they solving</th>
+    <th>Why they will change the world</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+        they are a (link)
+    </td>
+    <td style="vertical-align: top">
+        they do 
+      <ul>
+       <li>x</li>
+       <li>y</li>
+       <li>z</li>
+     </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      they are great.
+      because of these things.
+     </p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</details>
+
+<details>
+ <summary>
+  🏠 Zillow
+ </summary>
+ <table>
+  <thead>
+   <tr>
+    <th>Who they are</th>
+    <th>What problems are they solving</th>
+    <th>Why they will change the world</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+        they are a (link)
+    </td>
+    <td style="vertical-align: top">
+        they do 
+      <ul>
+       <li>x</li>
+       <li>y</li>
+       <li>z</li>
+     </ul>
+    </td>
+    <td style="vertical-align: top">
+     <p>
+      they are great.
+      because of these things.
+     </p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</details>
 
 
 ##  📘 My Makers Journey
