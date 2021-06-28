@@ -16,8 +16,8 @@
 - Who I am [My GitHub CV] (https://github.com/MattDawson2020/CV)
 - I used to be a photographer at a PropTech startup
 - I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
-- I most recently finished: [AceBook](https://github.com/MattDawson2020/acebook-Derailed)
-- I'm currently working on: [Fridge Savant (React front end)](https://github.com/jasonrowsell/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server)
+- I most recently finished: [Fridge Savant (React front end)](https://github.com/jasonrowsell/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server)
+- I'm currently working on: Revising MERN stack development, as it provides a more industry representitive experience compared to Rails
 
 ## 🎯  My Next Goal?
 - My next goal is to learn Python in order to explore AI and intelligence in algorithmic problem solving
@@ -198,6 +198,63 @@
         <li> Allow a user to input new data in order to change what is rendered, and have these changes persist</li>
        <li> Using a Ruby based ORM to interface with SQL based database</li>
        <li>https://github.com/MattDawson2020/chitter-challenge</li>
+      </ul>
+    </td>
+  </table>
+ </details>
+  
+<details>
+ <summary> Week 5: AirBnb </summary>
+ <table>
+  <thead>
+   <tr>
+     <th>Group engineering project</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+      <p>
+       This is the first of my Maker's group engineering projects, built in Ruby's Sinatra framework in a team of 4.
+       Throughout this week we worked to user stories and specifications rather than direct challenge instructions for the first time.
+       The ultimate aim was to both build a full stack fully functioning application, but also to do so using AGILE methodology.
+       The learning objectives for this week were:
+      </p>
+      <ul>
+        <li> Break down projects into tasks and allocate them to pairs</li>
+        <li> Build to a specification (rather than challenges)</li>
+        <li> Run stand-ups and retrospectives</li>
+        <li> Use a branch/PR/merge git workflow</li>
+        <li> Give and receive meaningful code review</li>
+       <li>https://github.com/MattDawson2020/in_the_airbnb_tonight</li>
+      </ul>
+    </td>
+  </table>
+ </details>
+ 
+<details>
+ <summary> Week 6: Javascript </summary>
+ <table>
+  <thead>
+   <tr>
+     <th>Weekly Challenge</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+      <p>
+       This challenge was the return to weekly pair programmed challenges following Airbnb group project week. 
+       This week we began programming in JavaScript instead of Ruby, testing our ability to learn a new language. 
+       The learning objectives for this week were:
+      </p>
+      <ul>
+       <li> Test drive a simple front end web app with JavsScript</li>
+       <li> Follow an effective process for learning a new language</li>
+       <li> DOM manipulation</li>
+       <li> Creating dynamic pages that do not rely on a page refresh</li>
+       <li>https://github.com/MattDawson2020/Airport-Challenge-JS</li>
+       <li>https://github.com/MattDawson2020/Thermostat-JS</li>
       </ul>
     </td>
   </table>
