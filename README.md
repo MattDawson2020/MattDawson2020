@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/>
 </a>
   
-## 🇨🇮 About Me
+## 📣 About Me
 
 - Who I am [My GitHub CV](https://github.com/MattDawson2020/CV)
 - I used to be a photographer at a PropTech startup
@@ -25,7 +25,7 @@
 - To rewrite some of my top projects in new technology stacks or to superior quality/ features 
 
 
-##  ⚡ What Inspired me?
+## ⚡  What Inspired me?
 **These are the companies that inspired me to become a developer, each found while looking for investment opportunities** <br>
 **I am a shareholder of each of these companies and believe they are the future FAANG company equivalents**
 <br>
