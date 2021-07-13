@@ -16,7 +16,7 @@
 - Who I am [My GitHub CV](https://github.com/MattDawson2020/CV)
 - I used to be a photographer at a PropTech startup
 - I’m recently completed the Full Stack Software Engineer course at [Makers Academy](https://makers.tech/about-us/)
-- I most recently finished: [Fridge Savant (React front end)](https://github.com/jasonrowsell/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server)
+- I most recently finished: [Fridge Savant (React front end)](https://github.com/MattDawson2020/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server)
 - I'm currently working on: Revising MERN stack development, as it provides a more industry representitive experience compared to Rails
 
 ## 🎯  My Next Goal?
@@ -653,7 +653,7 @@
   <a href="https://github.com/MattDawson2020/acebook-Derailed"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=acebook-Derailed&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="acebook-Derailed"></a>
   <a href="https://github.com/MattDawson2020/Bank-Tech-Test"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MattDawson2020&repo=Bank-Tech-Test&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Bank-Tech-Test"></a>
   <a href="https://github.com/MattDawson2020/gilded-rose-ruby-tech-test"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=gilded-rose-ruby-tech-test&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="gilded-rose-ruby-tech-test"></a>
-  <a href=https://github.com/jasonrowsell/fridge-savant-client><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=fridge-savant-client&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="gilded-rose-ruby-tech-test"></a>
+  <a href=https://github.com/MattDawson2020/fridge-savant-client><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=fridge-savant-client&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="gilded-rose-ruby-tech-test"></a>
  <a href=https://github.com/MattDawson2020/Bank-Tech-Test-JS><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Bank-Tech-Test-JS&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="gilded-rose-ruby-tech-test"></a>
   
 </p>
