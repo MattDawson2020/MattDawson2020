@@ -16,8 +16,8 @@
 - Who I am [My GitHub CV](https://github.com/MattDawson2020/CV)
 - I used to be a photographer at a PropTech startup
 - I’m recently completed the Full Stack Software Engineer course at [Makers Academy](https://makers.tech/about-us/)
-- I most recently finished: [Fridge Savant (React front end)](https://github.com/MattDawson2020/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server)
-- I'm currently working on: Revising MERN stack development, as it provides a more industry representitive experience compared to Rails
+- I most recently finished: [Fridge Savant (React front end)](https://github.com/MattDawson2020/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server) and subsequent MERN revision/learning
+- I'm currently working on: Leaning Python to build better back ends to work with React 
 
 ## 🎯  My Next Goal?
 - My next goal is to learn Python in order to explore AI and intelligence in algorithmic problem solving
