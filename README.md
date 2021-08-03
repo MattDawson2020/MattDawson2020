@@ -15,12 +15,11 @@
 
 - Who I am [My GitHub CV](https://github.com/MattDawson2020/CV)
 - I used to be a photographer at a PropTech startup
-- I’m recently completed the Full Stack Software Engineer course at [Makers Academy](https://makers.tech/about-us/)
-- I most recently finished: [Fridge Savant (React front end)](https://github.com/MattDawson2020/fridge-savant-client) [Fridge Savant (Node/ Express back end)](https://github.com/mikejeuga/fridge-savant-server) and subsequent MERN revision/learning
-- I'm currently working on: Leaning Python to build better back ends to work with React 
+- I’m recently completed the Full Stack Software Engineer course at [Makers Academy](https://makers.tech/about-us/), See my final project [(React)](https://github.com/MattDawson2020/fridge-savant-client) here, or here [(node/express)](https://github.com/mikejeuga/fridge-savant-server)
+- I most recently finished learning [Python](https://www.udemy.com/course/the-python-mega-course/) to explore its data analysis, back end and libraries capabilities
+- I'm currently working on: exploring Java as a potential end game back-end language, and to explore the more computer science heavy sectors of programming
 
 ## 🎯  My Next Goal?
-- My next goal is to learn Python in order to explore AI and intelligence in algorithmic problem solving
 - I intend to work with Maker's colleagues on new projects to explore capabilities/ new technologies
 - To rewrite some of my top projects in new technology stacks or to superior quality/ features 
 
@@ -646,14 +645,15 @@
 
 ## 🌱 Project Highlights
 
+ 
 <p align="left">
-   <a href="https://github.com/MattDawson2020/alpha-blog"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=alpha-blog&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="alpha-blog"></a>
-   <a href="https://github.com/MattDawson2020/MessageMe"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=MessageMe&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Message-Me"></a>
-   <a href="https://github.com/MattDawson2020/in_the_airbnb_tonight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=in_the_airbnb_tonight&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="in_the_airbnb_tonight"></a>
-  <a href="https://github.com/MattDawson2020/acebook-Derailed"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=acebook-Derailed&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="acebook-Derailed"></a>
+ <a href=https://github.com/MattDawson2020/fridge-savant-client><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=fridge-savant-client&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="fridge-savant-client"></a>
+   <a href="https://github.com/MattDawson2020/acebook-Derailed"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=acebook-Derailed&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="acebook-Derailed"></a>
+   <a href="https://github.com/MattDawson2020/Python-KivyQuotesApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Python-KivyQuotesApp&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="kivynotesapp"></a>
+   <a href="https://github.com/MattDawson2020/Python-Data-Analytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Python-Data-Analytics&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="analytics"></a>
   <a href="https://github.com/MattDawson2020/Bank-Tech-Test"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MattDawson2020&repo=Bank-Tech-Test&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Bank-Tech-Test"></a>
   <a href="https://github.com/MattDawson2020/Gilded-Rose-Tech-Test"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Gilded-Rose-Tech-Test&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="gilded-rose-ruby-tech-test"></a>
-  <a href=https://github.com/MattDawson2020/fridge-savant-client><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=fridge-savant-client&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="fridge-savant-client"></a>
+  <a href="https://github.com/MattDawson2020/in_the_airbnb_tonight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=in_the_airbnb_tonight&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="in_the_airbnb_tonight"></a>
  <a href=https://github.com/MattDawson2020/Bank-Tech-Test-JS><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Bank-Tech-Test-JS&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="bank-test-ruby"></a>
   <a href=https://github.com/MattDawson2020/Gilded-Rose-JS><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Gilded-Rose-JS&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="gilded-rose-JS"></a>
   
@@ -662,12 +662,14 @@
 ## 🛠 Languages and Tools:
 
 <img align="left" alt="Ruby" width="40px" src="https://cdn.svgporn.com/logos/ruby.svg" />
+<img align="left" alt="Python" width="40px" src="https://cdn.svgporn.com/logos/python.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.svgporn.com/logos/javascript.svg" />
 <img align="left" alt="Rails" width="40px" src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png" />
 <img align="left" alt="Sinatra" width="40px" src="https://cdn.svgporn.com/logos/sinatra.svg" />
-<img align="left" alt="PostGreSQL" width="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+<img align="left" alt="Flask" width="40px" src="https://cdn.svgporn.com/logos/flask.svg" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />
+<img align="left" alt="PostGreSQL" width="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" />
 <img align="left" alt="Mongo DB" width="40px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -699,6 +701,7 @@
         <ul>
          <li>Ruby</li>
           <li>JavaScript</li>
+          <li>Python</li>
           <li>HTML5</li>
           <li>CSS3/SASS</li>
         </ul>
@@ -708,6 +711,9 @@
           <li>React</li>
           <li>Node.js</li>
           <li>Express</li>
+          <li>Flask</li>
+          <li>Kivy</li>
+          <li>Pandas</li>
           <li>Ruby on Rails</li>
           <li>Sinatra</li>
           <li>MongoDB</li>
