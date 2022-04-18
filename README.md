@@ -13,15 +13,14 @@
   
 ## 📣 About Me
 
-- Who I am [My GitHub CV](https://github.com/MattDawson2020/CV)
-- I used to be a photographer at a PropTech startup
-- I’m recently completed the Full Stack Software Engineer course at [Makers Academy](https://makers.tech/about-us/), See my final project [(React)](https://github.com/MattDawson2020/fridge-savant-client) here, or here [(node/express)](https://github.com/mikejeuga/fridge-savant-server)
-- I most recently finished learning [Python](https://www.udemy.com/course/the-python-mega-course/) to explore its data analysis, back end and libraries capabilities
-- I'm currently working on: exploring Java as a potential end game back-end language, and to explore the more computer science heavy sectors of programming
+- Full Stack Software Engineer at BrickVest, working with Quart (flask like python backend), and React (Typescript), using manual SQL over an ORM
+- In 2021 I completed the Full Stack Software Engineer course at [Makers Academy](https://makers.tech/about-us/), See my final project [(React)](https://github.com/MattDawson2020/fridge-savant-client) here, or here [(node/express)](https://github.com/mikejeuga/fridge-savant-server)
+- [My GitHub CV](https://github.com/MattDawson2020/CV)
+- Prior to this I was a photographer at a PropTech startup
 
-## 🎯  My Next Goal?
-- I intend to work with Maker's colleagues on new projects to explore capabilities/ new technologies
-- To rewrite some of my top projects in new technology stacks or to superior quality/ features 
+
+## 🎯  My Current Goal?
+- I'm currently working on: learning the fundamentals of computer science, focussing on Data Structures & Algorithms
 
 
 ## ⚡  What Inspired me?
@@ -108,45 +107,6 @@
 
 <details>
  <summary>
-  💵 Square
- </summary>
- <br>
- <p>
-  <a href="https://squareup.com/gb/en">Square</a> is changing the way we think about money <br>
-  Square began life as a simpler way for people to make payments to each other, but now looks to take on the worlds financial system
- </p> <br>
- <table>
-  <thead>
-   <tr>
-    <th>What problems are they solving</th>
-    <th>Why they will change the world</th>
-   </tr>
-  </thead>
-  <tbody>
-   <tr>
-    <td style="vertical-align: top">
-      <ul>
-       <li>Allows individuals and businesses to easily accept card payments without expensive point of sale systems</li>
-       <li>Software allows small enterprises to use an Ipad with wifi as a point of sale system</li>
-       <li>Fast and safe personal money transfers</li>
-       <li>Offers business customers the ability to setup online stors integrated with Instagram and Facebook marketplaces</li>
-     </ul>
-    </td>
-    <td style="vertical-align: top">
-     <ul>
-       <li>The world financial system is stale and self destructive, and would sooner prevent innovation than drive it</li>
-       <li>Square puts the power of personal and business finance in the hand of the individuals, driving a new age of individual enterprise</li>
-       <li>Payment and point of sale simplicity means success is now determined on the quality of your product or service, not your level of capital</li>
-       <li>Your money is yours, and why should banks tell you what you can do with it, Square puts the power back in your hands</li>
-     </ul>
-    </td>
-   </tr>
-  </tbody>
- </table>
-</details>
-
-<details>
- <summary>
   🏦 Upstart
  </summary>
  <br>
@@ -175,6 +135,41 @@
        <li>Algorithm's accuracy is such that banks can have 75% fewer defaults for the same approval rate, or increase approvals 173% for no extra defaults</li>
        <li>No longer do individuals have loans rejected by people who seem unable to provide an objective reason why</li>
        <li>The digital age is too often held back by subjective decision making and human error, Upstart is a perfect example of AI innovation</li>
+     </ul>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</details>
+
+<details>
+ <summary>
+  💵 Google
+ </summary>
+ <br>
+ <p>
+  <a href="https://abc.xyz/">Google</a> One of, if not the worlds leader in AI innovation <br>
+  Begining life as an improved search engine, Google now covers an entire ecosystem of cloud products
+ </p> <br>
+ <table>
+  <thead>
+   <tr>
+    <th>What problems are they solving</th>
+    <th>Why they will change the world</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="vertical-align: top">
+      <ul>
+       <li>Artificial Intelligence</li>
+       <li>Cloud Infrastructure & Computing</li>
+     </ul>
+    </td>
+    <td style="vertical-align: top">
+     <ul>
+       <li>Powerful tools such as GoogleMaps/directions, YouTube & Google Drive put incredible power in ordinary peoples hands</li>
+       <li>Waymo is making excellent progress in self driving cars</li>
      </ul>
     </td>
    </tr>
@@ -218,41 +213,6 @@
  </table>
 </details>
 
-<details>
- <summary>
-  🏠 Zillow
- </summary>
- <br>
- <p>
-  <a href="https://www.zillow.com/">Zillow</a> brings buying and selling homes to the digital age <br>
- </p> <br>
- <table>
-  <thead>
-   <tr>
-    <th>What problems are they solving</th>
-    <th>Why they will change the world</th>
-   </tr>
-  </thead>
-  <tbody>
-   <tr>
-    <td style="vertical-align: top">
-      <ul>
-       <li>Homeowners have to pay massive feeds and commissions to allow someone else to sell/buy a home for them</li>
-       <li>Property sales/ renting is still overwhelmingly done in an analogue manner despite advancing technology</li>
-       <li>Real Estate industry means that listings are often divided across locations and even RightMove often forces you onto their website</li>
-     </ul>
-    </td>
-    <td style="vertical-align: top">
-     <ul>
-       <li>Users can rent/buy/sell/view propertie all from a single location, even able to request tours through the site</li>
-       <li>Developing business model allows renters to pay rent through Zillow, and for buyers/sells to use Zillow for Escrow</li>
-       <li>Zestimate feature uses AI to calculate approximate value/ rent, and is just a stepping off point for digital innovations</li>
-     </ul>
-    </td>
-   </tr>
-  </tbody>
- </table>
-</details>
 
 
 ##  📘 My Makers Journey
@@ -647,12 +607,12 @@
 
  
 <p align="left">
+ <a href=https://github.com/MattDawson2020/Computer-Science><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Computer-Sciencet&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="fridge-savant-client"></a>
  <a href=https://github.com/MattDawson2020/fridge-savant-client><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=fridge-savant-client&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="fridge-savant-client"></a>
    <a href="https://github.com/MattDawson2020/acebook-Derailed"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=acebook-Derailed&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="acebook-Derailed"></a>
    <a href="https://github.com/MattDawson2020/Python-KivyQuotesApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Python-KivyQuotesApp&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="kivynotesapp"></a>
    <a href="https://github.com/MattDawson2020/Python-Data-Analytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Python-Data-Analytics&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="analytics"></a>
   <a href="https://github.com/MattDawson2020/Bank-Tech-Test"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MattDawson2020&repo=Bank-Tech-Test&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Bank-Tech-Test"></a>
-  <a href="https://github.com/MattDawson2020/Gilded-Rose-Tech-Test"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Gilded-Rose-Tech-Test&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="gilded-rose-ruby-tech-test"></a>
   <a href="https://github.com/MattDawson2020/in_the_airbnb_tonight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=in_the_airbnb_tonight&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="in_the_airbnb_tonight"></a>
  <a href=https://github.com/MattDawson2020/Bank-Tech-Test-JS><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Bank-Tech-Test-JS&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="bank-test-ruby"></a>
   <a href=https://github.com/MattDawson2020/Gilded-Rose-JS><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Gilded-Rose-JS&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="gilded-rose-JS"></a>
@@ -701,6 +661,7 @@
         <ul>
          <li>Ruby</li>
           <li>JavaScript</li>
+          <li>TypeScript</li>
           <li>Python</li>
           <li>HTML5</li>
           <li>CSS3/SASS</li>
@@ -712,6 +673,7 @@
           <li>Node.js</li>
           <li>Express</li>
           <li>Flask</li>
+          <li>Quart</li>
           <li>Kivy</li>
           <li>Pandas</li>
           <li>Ruby on Rails</li>
@@ -728,7 +690,7 @@
           <li>Jasmine</li>
           <li>RSpec</li>
           <li>Capybara</li>
-          <li> Jest</li>
+          <li>Jest</li>
           <li>Checkout https://github.com/MattDawson2020/notesApp for the framework I made myself</li>
         </ul>
       </td>
