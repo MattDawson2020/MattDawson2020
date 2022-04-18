@@ -607,7 +607,7 @@
 
  
 <p align="left">
- <a href=https://github.com/MattDawson2020/Computer-Science><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Computer-Sciencet&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="fridge-savant-client"></a>
+ <a href=https://github.com/MattDawson2020/Computer-Science><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Computer-Science&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="fridge-savant-client"></a>
  <a href=https://github.com/MattDawson2020/fridge-savant-client><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=fridge-savant-client&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="fridge-savant-client"></a>
    <a href="https://github.com/MattDawson2020/acebook-Derailed"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=acebook-Derailed&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="acebook-Derailed"></a>
    <a href="https://github.com/MattDawson2020/Python-KivyQuotesApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MattDawson2020&repo=Python-KivyQuotesApp&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="kivynotesapp"></a>
