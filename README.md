@@ -20,7 +20,7 @@
 
 
 ## 🎯  My Current Goal?
-- I'm currently working on: learning the fundamentals of computer science, focussing on Data Structures & Algorithms
+- I'm currently working on: learning Docker & Kubernetes to be able to reliably deploy the applciations I can already build
 
 
 ## ⚡  What Inspired me?
